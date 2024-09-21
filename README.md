@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andrew (but i call my self RekoSK on internet)</h1>
+<h1 align="center">Hi 👋, I'm Andrej (but i call my self RekoSK on internet)</h1>
 <h3 align="center">I am a student from Slovakia, which likes electronics and programming.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rekosk&label=Profile%20views&color=0e75b6&style=flat" alt="rekosk" /> </p>
